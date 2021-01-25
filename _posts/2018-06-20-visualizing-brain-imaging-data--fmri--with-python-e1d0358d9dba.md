@@ -245,9 +245,3 @@ follow me on [Twitter](https://twitter.com/ak_carsten) or connect via
 
 The code for this project can be found on
 [Github](https://github.com/akcarsten/fMRI_data_analysis).
-
-[ **akcarsten/fMRI_data_analysis**  
- _Contribute to akcarsten/fMRI_data_analysis development by creating an
-account on GitHub._
-github.com](https://github.com/akcarsten/fMRI_data_analysis
-"https://github.com/akcarsten/fMRI_data_analysis")[](https://github.com/akcarsten/fMRI_data_analysis)

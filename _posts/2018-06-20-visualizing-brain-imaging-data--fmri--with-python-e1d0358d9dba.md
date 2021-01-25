@@ -228,7 +228,7 @@ and plot its time course.
 
     >>> plt.show()
 
-![_config.yml]({{ site.baseurl }}/images/fmri/1G7Bd0nsqb8HG4lBcXHdp-g.png)
+![_config.yml]({{ site.baseurl }}/images/fmri/11uqjzYJFMCeiIYKyHPOWHg.png)
 
 Well it is a time course, right? It neither looks very meaningful nor does it
 seem to carry much information about what is going on in the brain during the
@@ -251,5 +251,3 @@ The code for this project can be found on
 account on GitHub._
 github.com](https://github.com/akcarsten/fMRI_data_analysis
 "https://github.com/akcarsten/fMRI_data_analysis")[](https://github.com/akcarsten/fMRI_data_analysis)
-
-[]![_config.yml]({{ site.baseurl }}/images/fmri/1HrFLDXz92JavTZXjhmvU7g.png)](https://coincodecap.com)

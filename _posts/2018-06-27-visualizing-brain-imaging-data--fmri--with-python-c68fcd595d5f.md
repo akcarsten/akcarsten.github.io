@@ -93,8 +93,7 @@ signal is at a baseline level and during stimulation the signal increases.
 Below you can see how our design matrix looks like. As mentioned above for now
 we will ignore the constant part and only look at our expected response.
 
-![](/C:\\Users\\carst\\Google
-Drive\\Python\\medium_articles\\conv\\img/19Q23mTsfW2eNgI8AQSFSRQ.png)
+![_config.yml]({{ site.baseurl }}/images/fmri/19Q23mTsfW2eNgI8AQSFSRQ.png)
 
 In the previous [article ](https://medium.com/@CarstenKlein/visualizing-brain-
 imaging-data-fmri-with-python-e1d0358d9dba)and [Jupyter
@@ -104,7 +103,7 @@ the expected response above. Plotting another random voxel below also does not
 look any better. So how can we actually check if there is any voxel in the
 brain that resembles our expected response?
 
-![_config.yml]({{ site.baseurl }}/images/fmri/img/11uqjzYJFMCeiIYKyHPOWHg.png)
+![_config.yml]({{ site.baseurl }}/images/fmri/11uqjzYJFMCeiIYKyHPOWHg.png)
 
 The easiest thing to do is calculating the correlation coefficient between our
 expected response and the timecourse of every voxel in the dataset. So first
@@ -167,7 +166,7 @@ to scale a signal to the range of 0 to 1 is min-max scaling:
     >>> ax.legend()  
     >>> plt.show()
 
-![_config.yml]({{ site.baseurl }}/images/fmri/img/1C4KioOIivZbvv9UFPQ5psA.png)
+![_config.yml]({{ site.baseurl }}/images/fmri/1C4KioOIivZbvv9UFPQ5psA.png)
 
 Actually this looks much better than the random voxel before. So our simple
 guess of how a brain region involved in auditory processing should respond to
@@ -223,8 +222,7 @@ respect to the brain anatomy.
     >>> ax[2].set_yticks([])  
     >>> plt.show()
 
-![_config.yml]({{ site.baseurl }}/images/fmri/img/1Ssdn-
-LuCeE80wdKoVaYDbg.png)
+![_config.yml]({{ site.baseurl }}/images/fmri/1N0802aMrEY02folwodr2EQ.png)
 
 OK as we can see from the un-thresholded map the voxels with high correlations
 are not randomly distributed across the map but actually form a bigger cluster

@@ -5,16 +5,16 @@ date:	2018-06-27
 author:	Carsten Klein
 ---
 
-* * *
-
-![_config.yml]({{ site.baseurl }}/images/fmri/10kll-
-_uSBtGkyr76i5HPQA.jpeg)
-
 In the [previous article](https://medium.com/@CarstenKlein/visualizing-brain-
 imaging-data-fmri-with-python-e1d0358d9dba) we covered the basics about the
 data structure and the differences between structural and functional MRI
 (fMRI). In this article we move on to the analysis of the fMRI data to answer
 the following question: **_What brain regions were active during the scan?_**
+
+* * *
+
+![_config.yml]({{ site.baseurl }}/images/fmri/10kll-
+_uSBtGkyr76i5HPQA.jpeg)
 
 This is actually the main objective behind doing a fMRI scan in the first
 place. While high-resolution MRI scans are performed to get static anatomical

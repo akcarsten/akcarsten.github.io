@@ -6,10 +6,6 @@ date:	2018-11-12
 author:	Carsten Klein
 ---
 
-Implementation of the Perceptron algorithm in Python.
-
-* * *
-
 #### A biologically inspired linear classifier in Python
 
 It has been a long standing task to create machines that can act and reason in
@@ -36,8 +32,10 @@ behind the Perceptron is to resemble the computations of biological neurons to
 create an agent that can learn. In the following we will have a look on the
 idea behind the Perceptron and how to implement it in Python code.
 
+* * *
+
 ![_config.yml]({{ site.baseurl }}/images/perceptron/1lC7w-
-cbJ26_FEGjnYskahw.jpeg)Hardware implementation of the Perceptron ([Mark
+cbJ26_FEGjnYskahw.jpeg) Hardware implementation of the Perceptron ([Mark
 I](https://en.wikipedia.org/wiki/Perceptron))
 
 #### The idea

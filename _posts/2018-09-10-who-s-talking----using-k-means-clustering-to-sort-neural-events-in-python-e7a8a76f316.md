@@ -21,9 +21,9 @@ spike events.
 
 * * *
 
-#### Spike sorting
-
 ![_config.yml]({{ site.baseurl }}/images/spikeSorting/1282BDfhvk5Cdb2M9Yzhnbw.png)
+
+#### Spike sorting
 
 Such spike events as depicted above reflect the activity of individual neurons
 and therefore can give important insights into the nature of the disease.

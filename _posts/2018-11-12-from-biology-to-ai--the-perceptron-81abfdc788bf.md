@@ -6,14 +6,22 @@ date:	2018-11-12
 author:	Carsten Klein
 ---
 
-#### A biologically inspired linear classifier in Python
-
 It has been a long standing task to create machines that can act and reason in
 a similar fashion as humans do. And while there has been lots of progress in
 artificial intelligence (AI) and machine learning in recent years some of the
 groundwork has already been laid out more than 60 years ago. These early
 concepts drew their inspiration from theoretical principles of how biological
-neural networks such as the human brain work. In 1943 [McCulloch and
+neural networks such as the human brain work.
+
+* * *
+
+![_config.yml]({{ site.baseurl }}/images/perceptron/1lC7w-
+cbJ26_FEGjnYskahw.jpeg) Hardware implementation of the Perceptron ([Mark
+I](https://en.wikipedia.org/wiki/Perceptron))
+
+#### A biologically inspired linear classifier in Python
+
+In 1943 [McCulloch and
 Pitts](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf) published a paper
 describing the relationships of (artificial) neurons in networks based on
 their "all-or-none" activity characteristic. This "all-or-none" characteristic
@@ -31,12 +39,6 @@ Pitts](http://www.cse.chalmers.se/~coquand/AUTOMATA/mcp.pdf) paper the idea
 behind the Perceptron is to resemble the computations of biological neurons to
 create an agent that can learn. In the following we will have a look on the
 idea behind the Perceptron and how to implement it in Python code.
-
-* * *
-
-![_config.yml]({{ site.baseurl }}/images/perceptron/1lC7w-
-cbJ26_FEGjnYskahw.jpeg) Hardware implementation of the Perceptron ([Mark
-I](https://en.wikipedia.org/wiki/Perceptron))
 
 #### The idea
 

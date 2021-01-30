@@ -3,13 +3,8 @@ layout:	"post"
 categories:	"neuro science"
 title:	"Who’s talking? — Using K-Means clustering to sort neural events in Python"
 date:	2018-09-10
-thumbnail: {{ site.baseurl }}/images/spikeSorting/1282BDfhvk5Cdb2M9Yzhnbw.png
 author:	Carsten Klein
 ---
-
-* * *
-
-#### Spike sorting
 
 Epilepsy is a form of brain disorder in which an excess of synchronous
 electrical brain activity leads to seizures which can range from having no
@@ -23,6 +18,10 @@ brain with which the neural activity can be monitored in real time. In a
 extract-neural-events-in-python-964437dc7c0) we looked at how to process such
 electrophysiological data from a human epilepsy patient in order to extract
 spike events.
+
+* * *
+
+#### Spike sorting
 
 ![_config.yml]({{ site.baseurl }}/images/spikeSorting/1282BDfhvk5Cdb2M9Yzhnbw.png)
 

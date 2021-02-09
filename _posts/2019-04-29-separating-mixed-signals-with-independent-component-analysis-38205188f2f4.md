@@ -6,11 +6,6 @@ date:	2019-04-29
 author:	Carsten Klein
 ---
 
-* * *
-
-![_config.yml]({{ site.baseurl }}/images/ICA/1f6zxmgbeke5RJCCiM7pdBw.jpeg)Image
-modified from [garageband](https://pixabay.com/users/garageband-4200899/)
-
 The world around is a dynamic mixture of signals from various sources. Just
 like the colors in the above picture blend into one another, giving rise to
 new shades and tones, everything we perceive is a fusion of simpler
@@ -29,6 +24,11 @@ will have a closer look on how this algorithm works and how to write it down
 in Python code. If you are more interested in the code than in the explanation
 you can also directly check out [the Jupyter Notebook for this post on
 Github](https://github.com/akcarsten/Independent_Component_Analysis).
+
+* * *
+
+![_config.yml]({{ site.baseurl }}/images/ICA/1f6zxmgbeke5RJCCiM7pdBw.jpeg)Image
+modified from [garageband](https://pixabay.com/users/garageband-4200899/)
 
 ### What is Independent Component Analysis?
 

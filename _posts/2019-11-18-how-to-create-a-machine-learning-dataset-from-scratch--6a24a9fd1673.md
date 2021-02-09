@@ -24,8 +24,8 @@ Unfortunately the fraktur typeface deviates from modern typefaces in several ins
 letter _" A"_ looks like a _" U"_ in fraktur and every time I see a _" Z"_ in
 fraktur I read a _" 3"_ (see Figure 2).
 
-![_config.yml]({{ site.baseurl }}/images/ml_dataset/1eatc8zozwvHTqg0Hdc85ww.png)Figure
-2: Examples of letters in fraktur and in a modern typeface (Calibri)
+![_config.yml]({{ site.baseurl }}/images/ml_dataset/1eatc8zozwvHTqg0Hdc85ww.png)
+Figure 2: Examples of letters in fraktur and in a modern typeface (Calibri)
 
 So the idea emerged to develop a pipeline that will create a live translation
 of the fraktur letters into a modern typeface. With such a tool in hand we
